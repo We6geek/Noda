@@ -28,7 +28,7 @@ const loginText = document.querySelector(".title-text .login");
       });
 // form
 function subLogin() {
-        window.location.href = './pages/about.html';
+        window.location.href = './about.html';
 };
 // confirm pass
 function validate_password() {
